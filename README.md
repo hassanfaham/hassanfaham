@@ -13,7 +13,7 @@
 <a href="https://www.kaggle.com/rikarikun">
   <img height="50" src="https://github.com/hassanfaham/hassanfaham/blob/main/assets/kaggle.svg"/>
 </a>
-<a href="https://www.hackerrank.com/profile/hassanfaham789">
+<a href="https://www.hackerrank.com/profile/rikari_kun">
   <img height="50" src="https://github.com/hassanfaham/hassanfaham/blob/main/assets/hackerrank.svg"/>
 </a>
 <a href="mailto:hassanfaham789@gmail.com">
